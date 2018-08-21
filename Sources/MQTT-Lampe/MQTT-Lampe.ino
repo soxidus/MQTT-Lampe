@@ -9,7 +9,7 @@
 
 // MQTT config
 #define MQTT_PORT 1883
-#define MQTT_DEVICE_NAME "WemosTetris"
+#define MQTT_DEVICE_NAME "Tetris-Lampe"
 #define MQTT_QUEUE "Tetris/control"
 
 const int relayPin = D1;
